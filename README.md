@@ -1,5 +1,5 @@
 ### MinOS is a minimalistic operating system, consisting of a bootloader, a kernel and basic hardware support.
-#### Designed with the intent of improving my understanding of the foundations of what powers our desktops. 
+#### Designed with the intent of improving my understanding on what manages the resources on a computer.
 #### As I learn more, I will try to add updates to this repository.
 
 #### This basic OS initially boots in 16 bit real mode, followed by entering 32 bit protected mode, before the bootloader hands over the control of the hardware to the kernel.
