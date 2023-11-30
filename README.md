@@ -24,4 +24,3 @@
 - Compile the boot and kernel code (Still to automate build using CMake)
 - Enter qemu-system-x86_64 boot.bin to emulate the result on Qemu
 - Bochs could be used as another option.
-- Alternatively, you could boot it from a bootable hard drive, but it is not the most practical choice.
